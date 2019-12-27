@@ -1,0 +1,10 @@
+127.0.0.1 - - [18/Apr/2019:20:01:19 +0800] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:20 +0800] "GET /SnackShop/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/shop/index HTTP/1.1" 200 8145
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/trimImg/myEWM.png HTTP/1.1" 200 53580
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/trimImg/wxBZ.png HTTP/1.1" 200 1736
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/xichenqi1.jpg HTTP/1.1" 404 1065
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/bingxiang2.jpg HTTP/1.1" 404 1066
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/bingxiang1.jpg HTTP/1.1" 404 1066
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/image/bingxiang3.jpg HTTP/1.1" 404 1066
+0:0:0:0:0:0:0:1 - - [18/Apr/2019:20:01:21 +0800] "GET /SnackShop/shop/get_type HTTP/1.1" 200 167
